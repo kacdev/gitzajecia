@@ -6,3 +6,4 @@ poprawiono interfejs graficzny
 easierApp
 zmiana08
 Zmiana13
+Zmiana14naNowejGalezi
