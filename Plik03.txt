@@ -5,3 +5,4 @@ Dodano asystenta do pomocy
 poprawiono interfejs graficzny
 easierApp
 zmiana08
+Zmiana13

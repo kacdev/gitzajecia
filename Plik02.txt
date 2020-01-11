@@ -2,3 +2,4 @@ Zmiana07a
 Dodano asystenta do pomocy
 zmiana09
 zmiana10
+Zmiana13
