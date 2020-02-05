@@ -8,3 +8,4 @@ zmiana08
 zmiana09
 Zmiana13
 ZMiana12wClonie
+ZMIANAWPIERWSZYMLOKALNYM
